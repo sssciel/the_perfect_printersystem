@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models/animeworld/feromon/printer/neon_e"
+    "$additive" "1"
+    "$selfillum" "1"
+
+}

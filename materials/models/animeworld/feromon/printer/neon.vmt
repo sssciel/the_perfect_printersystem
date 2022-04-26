@@ -1,0 +1,20 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models/animeworld/feromon/printer/neon"
+
+
+"Proxies"
+
+{
+
+"AnimatedTexture"
+
+{
+
+"animatedTextureVar" "$basetexture"
+
+"animatedTextureFrameNumVar" "$frame"
+
+"animatedTextureFrameRate" "10"
+
+}
